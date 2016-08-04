@@ -1,0 +1,14 @@
+layout_spectrum: 0.6723998989909887
+typography_spectrum: 0.32339531602337956
+color:
+  brandStrength: 0.9927836726419628
+  lightness: 0.9591114176437259
+  saturation: 0.9623261401429772
+  rhythmicContrast: 0.002533805323764682
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: TGB
